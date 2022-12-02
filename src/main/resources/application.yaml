@@ -1,0 +1,4 @@
+
+Folderconfig:
+ pathPDF: ${PATH_PDF}
+ pathExcel: ${PATH_EXCEL}
